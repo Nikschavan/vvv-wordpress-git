@@ -1,2 +1,5 @@
 # Ignore the WordPress site
 htdocs/*
+
+# ignore OS generated files
+.DS_Store 
